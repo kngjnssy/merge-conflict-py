@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+# secret password is SECRET! 
+
 def approximate_pi():
     return 355 / 113
 
